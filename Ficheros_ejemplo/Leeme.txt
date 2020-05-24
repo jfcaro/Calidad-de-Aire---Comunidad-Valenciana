@@ -1,0 +1,2 @@
+Se incluyen algunas graficas generadas con el código
+Se incluye muestra de informe pdf
